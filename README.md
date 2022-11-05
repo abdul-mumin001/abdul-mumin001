@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm ABDUL MUMIN, working a Full Stack Developer
+### B.tech || CSE || 2023
 [![@abdulmuminbar's Holopin board](https://holopin.me/abdulmuminbar)](https://holopin.io/@abdulmuminbar)
 <!--
 **abdul-mumin001/abdul-mumin001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
