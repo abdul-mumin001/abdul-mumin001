@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm ABDUL MUMIN, working as a Full Stack Developer
+### I'm ABDUL MUMIN, working as a MERN Stack Developer
 ### B.tech || CSE || 2023
 [![@abdulmuminbar's Holopin board](https://holopin.me/abdulmuminbar)](https://holopin.io/@abdulmuminbar)
 <!--
