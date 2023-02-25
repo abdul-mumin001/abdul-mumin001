@@ -1,7 +1,7 @@
+[![@abdulmuminbar's Holopin board](https://holopin.me/abdulmuminbar)](https://holopin.io/@abdulmuminbar)
+
 # 💫 About Me:
 Hi there 👋<br>I'm ABDUL MUMIN, working as a Front end Developer.<br>
-
-[![@abdulmuminbar's Holopin board](https://holopin.me/abdulmuminbar)](https://holopin.io/@abdulmuminbar)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulmuminbar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/abdul-mumin-barbhuiya-7816a71b1) 
