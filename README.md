@@ -1,7 +1,7 @@
 [![@abdulmuminbar's Holopin board](https://holopin.me/abdulmuminbar)](https://holopin.io/@abdulmuminbar)
 
 # 💫 About Me:
-Hi there 👋<br>I'm ABDUL MUMIN, working as a Front end Developer.<br><br>📫 How to reach me abdulmuminbar@gmail.com<br>
+Hi there 👋<br>I'm ABDUL MUMIN, working as a Front end Developer.<br>📫 How to reach me abdulmuminbar@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -23,8 +23,4 @@ Hi there 👋<br>I'm ABDUL MUMIN, working as a Front end Developer.<br><br>📫 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdul-mumin001&icon=0&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://leetcode.com/ABDULMUMINBARBHUIYA/) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
